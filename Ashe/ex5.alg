@@ -1,8 +1,9 @@
 algoritmo "ex5"
-// Função :
+// FunÃ§Ã£o :Escrever um algoritmo que leia o nome de um aluno e as notas das trÃªs provas que ele obteve no semestre. No final 
+informar o nome do aluno e a sua mÃ©dia (aritmÃ©tica).
 // Autor : ashe
 // Data : 23/09/2025
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 nome: caracter
 nota1: real
@@ -18,5 +19,6 @@ leia(nota2)
 escreva("nota3:")
 leia(nota3)
 escreval(nome)
-escreval("a média é:", (nota1 + nota2 + nota3) /3)
+escreval("a mÃ©dia Ã©:", (nota1 + nota2 + nota3) /3)
 fimalgoritmo
+//Esse algoritmo calcula a mÃ©dia de trÃªs notas e mostra o nome e desempenho do aluno.
